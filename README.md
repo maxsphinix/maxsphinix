@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Emmanuel Maxwell. I'm a Computer Science graduate, a student at AltSchool Africa. 
+- 👋 Hi, I’m Emmanuel Maxwell. I'm a Computer Science graduate, alumni of AltSchool Africa. 
 - 👀 I’m also interested in forex and crypto trading.
-- 🌱 I’m currently studying to be a Frontend Engineer, learning Reactjs.
+- 🌱 I’m currently a Frontend Engineer, proficient in Reactjs and Vuejs.
 - 💞️ I’m looking to collaborate with like minds to work as a team to build cutting edge applications and provide solutions.
 - 📫 How to reach me: [Twitter](https://twitter.com/emax_official), [Linkedin](https://www.linkedin.com/in/emmanuel-maxwell-842764104)
 
